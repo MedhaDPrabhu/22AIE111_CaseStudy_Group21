@@ -3,10 +3,10 @@ WATER SUPPLY MANAGEMENT SYSTEM
 PROJECT TITLE : Water Supply Management System
 
 TEAM MEMBER                            ROLE
-Malavika A (AM.SC.U4AIE25128)          Water System
-Malavika Manoj (AM.SC.U4AIE25129)	     Consumer
-Medha D Prabhu (AM.SC.U4AIE25133)	     Operator
-Anamika P Vivekan (AM.SC.U4AIE2561)	   Admin
+Malavika A (AM.SC.U4AIE25128)  -        Water System
+Malavika Manoj (AM.SC.U4AIE25129)	 -    Consumer
+Medha D Prabhu (AM.SC.U4AIE25133)	 -    Operator
+Anamika P Vivekan (AM.SC.U4AIE2561)	-   Admin
 
 PROBLEM DESCRIPTION
 Manual monitoring of water distribution can lead to: Water wastage
@@ -32,7 +32,8 @@ SAMPLE INPUT AND OUTPUT:
 <img width="608" height="681" alt="inputoutput2" src="https://github.com/user-attachments/assets/111476ed-66aa-47a6-8384-a93918b49ff7" />
 
 
-TOOLS AND TECHNOLOGIES USED -> Programming Language: Java
-                            -> IDE: Eclipse
+TOOLS AND TECHNOLOGIES USED 
+-> Programming Language: Java
+-> IDE: Eclipse
                             
 
