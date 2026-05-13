@@ -3,16 +3,17 @@ WATER SUPPLY MANAGEMENT SYSTEM
 PROJECT TITLE : Water Supply Management System
 
 TEAM MEMBER                            ROLE
-Malavika A (AM.SC.U4AIE25128)  -        Water System
-Malavika Manoj (AM.SC.U4AIE25129)	 -    Consumer
-Medha D Prabhu (AM.SC.U4AIE25133)	 -    Operator
-Anamika P Vivekan (AM.SC.U4AIE2561)	-   Admin
+Malavika A (AM.SC.U4AIE25128)  -        Water System, 
+Malavika Manoj (AM.SC.U4AIE25129)	 -    Consumer, 
+Medha D Prabhu (AM.SC.U4AIE25133)	 -    Operator, 
+Anamika P Vivekan (AM.SC.U4AIE2561)	-   Admin, 
 
 PROBLEM DESCRIPTION
-Manual monitoring of water distribution can lead to: Water wastage
-                                                   : Leakage issues
-                                                   : Inefficient supply management
-                                                   : Difficulty in tracking consumer usage
+Manual monitoring of water distribution can lead to
+: Water wastage
+: Leakage issues
+: Inefficient supply management
+: Difficulty in tracking consumer usage
 This project provides a digital solution for monitoring water usage, detecting leakage, generating reports, and managing supply efficiently.
 
 FEATURES: Track consumer water usage
