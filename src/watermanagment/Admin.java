@@ -38,7 +38,7 @@ public class Admin {
 
     public void generateReport() {
 
-        System.out.println("\n----- CONSUMER REPORT -----");
+        System.out.println("\n CONSUMER REPORT ");
 
         for (Consumer c : consumers) {
             System.out.println(
