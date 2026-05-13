@@ -33,7 +33,7 @@ public class WaterSystem {
 
     public void generateConsumptionReport() {
 
-        System.out.println("\n----- CONSUMPTION REPORT -----");
+        System.out.println("\n CONSUMPTION REPORT ");
 
         for (String data : usageData) {
             System.out.println(data);
